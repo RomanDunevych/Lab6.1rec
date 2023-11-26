@@ -1,0 +1,3 @@
+﻿  Lab6.1rec.cpp
+C:\Users\romandunevych\source\repos\Lab6.1rec\Lab6.1rec\Lab6.1rec.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6.1rec.vcxproj -> C:\Users\romandunevych\source\repos\Lab6.1rec\x64\Debug\Lab6.1rec.exe
